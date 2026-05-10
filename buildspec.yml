@@ -2,7 +2,6 @@ version: 0.2
 
 env:
   variables:
-    # リポジトリのURL（タグなし）を定義
     ECR_REPO_URL: "241706223331.dkr.ecr.ap-northeast-1.amazonaws.com/cth1-repo"
 
 phases:
